@@ -19,8 +19,9 @@ The following gif shows the behavior of the front panel at the start of a game a
 The following gif shows what happens when the user completes the puzzle:<br />
 ![complete](https://user-images.githubusercontent.com/84546784/215360439-a5b5f737-c1c5-4da4-bc7c-9ebcabdf2c8b.gif)<br />
 
-The following is the backpanel of picross-complete.vi:<br />
+The following is the back panel of picross-complete.vi:<br />
 ![image](https://user-images.githubusercontent.com/84546784/215360478-ffff1437-d378-45bc-9b3c-3af3bfaa0262.png)<br />
+The back panel of this project consists of two main parts, and their 'delimiter' is the sequence structure.  Above the sequence structure is the chunk of code that takes in user input and checks if the puzzle is solved.  Inside the sequence structure, the first frame wipes the board clear of numbers and user input.  The second frame is the chunk of code that calculates what numbers should be on the top and left of the puzzle, formats them, and displays them there.<br />
 
 The following are different conditions of case structures in the above back panel:<br />
 ![image](https://user-images.githubusercontent.com/84546784/215360498-67aff135-9d0a-4a4c-811e-d013b5a649af.png)<br />
