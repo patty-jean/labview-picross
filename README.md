@@ -1,4 +1,4 @@
-# labview-picross
+# LabVIEW Picross
 A LabVIEW VI that allows the player to play a 10x10 game of picross.
 
 
