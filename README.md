@@ -1,5 +1,8 @@
 # LabVIEW Picross
-A LabVIEW VI that allows the player to play a 10x10 game of picross.
+##A LabVIEW VI that allows the player to play a 10x10 game of picross.<br />
+
+
+![big fish](https://user-images.githubusercontent.com/84546784/215360759-7a2ec54b-347d-4cf5-924d-07ca2b545b7a.png)<br />
 
 
 The following is a brief description of how this works: <br />
@@ -39,3 +42,5 @@ Selected as correct button state:<br />
 
 Selected as incorrect button state:<br />
 ![image](https://user-images.githubusercontent.com/84546784/215360555-7f2eb70d-dbd7-448e-aee7-3465ea882791.png)
+<br />
+(The alternative name for this project is Fishcross, as the puzzle solution I made for this resembles a fish.)
