@@ -1,8 +1,7 @@
 # LabVIEW Picross
 ##A LabVIEW VI that allows the player to play a 10x10 game of picross.<br />
 
-
-![big fish](https://user-images.githubusercontent.com/84546784/215360759-7a2ec54b-347d-4cf5-924d-07ca2b545b7a.png)<br />
+![big fish border](https://user-images.githubusercontent.com/84546784/215360814-528d2256-0501-4950-9d60-008afcb80ceb.png)
 
 
 The following is a brief description of how this works: <br />
