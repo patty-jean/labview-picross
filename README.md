@@ -42,4 +42,4 @@ Selected as correct button state:<br />
 Selected as incorrect button state:<br />
 ![image](https://user-images.githubusercontent.com/84546784/215360555-7f2eb70d-dbd7-448e-aee7-3465ea882791.png)
 <br />
-(The alternative name for this project is Fishcross, as the puzzle solution I made for this resembles a fish.)
+(The alternative name for this project is Fishcross, as the puzzle solution I made for this resembles, of course, a fish.)
