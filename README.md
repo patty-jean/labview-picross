@@ -9,7 +9,7 @@ The 2D picture array is constantly checked against the solution array to check i
 Every time the VI starts, it wipes the board clean and autocalculates the values on the top and left of the board and prints them there.
 picross-complete.vi is the full program, and it is reliant on 'Untitled 5 (SubVI).vi' for the 2D pictures to work.<br />
 
-On each 2D picture, the player can left click to mark it correct, right click to mark it wrong, and middle click to make it neutral.<br />
+
 
 The following gif shows the behavior of the front panel at the start of a game and when it is reset:<br />
 ![board-reset](https://user-images.githubusercontent.com/84546784/215360413-c8080a0f-ce3d-4fa8-9f87-880b24733e97.gif)<br />
@@ -28,6 +28,9 @@ The following are different conditions of case structures in the above back pane
 
 
 Next, the following is the back panel of "Untitled 5 (SubVI).vi"<br />
+
+On each 2D picture, the player can left click to mark it correct, right click to mark it wrong, and middle click to make it neutral.<br />
+
 Neutral button state:<br />
 ![image](https://user-images.githubusercontent.com/84546784/215360551-3274dcaf-2ad0-48f9-a267-55f6c601773f.png)
 
